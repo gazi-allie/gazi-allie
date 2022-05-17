@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gazi-allie
-- 👀 I’m interested in ...andriod developmenta and cyper security and software enginering
+- 👀 I’m interested in ...andriod development , cyber security and software enginering
 - 🌱 I’m currently learning ... java core, linux , kotlin,....
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ibnibilal114@gmail.com,
