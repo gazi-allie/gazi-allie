@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gazi-allie" alt="ateeshkumar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ateeshk83372382" target="blank"><img src="https://img.shields.io/twitter/follow/AllieGazi?logo=twitter&style=for-the-badge" alt="ateeshk83372382" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AllieGazi" target="blank"><img src="https://img.shields.io/twitter/follow/AllieGazi?logo=twitter&style=for-the-badge" alt="AllieGazi" /></a> </p>
 
 
 - 🌱 I’m currently learning *python, android*
@@ -20,12 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ateeshk83372382" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ateeshk83372382" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ateesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ateesh kumar" height="30" width="40" /></a>
-<a href="https://fb.com/ateesh kumar maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ateesh kumar maurya" height="30" width="40" /></a>
-<a href="https://instagram.com/thisis_ateesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ateesh_maurya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bcs_3779" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bcs_3779" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ateesh2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaziallie114" height="30" width="40" /></a>
+<a href="https://twitter.com/AllieGazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AllieGazi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gazi-ul-islam-allie-29447922a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gazi-ul-islam-allie-29447922a" height="30" width="40" /></a>
+
+<a href="https://www.hackerrank.com/gaziallie114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gaziallie114" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
