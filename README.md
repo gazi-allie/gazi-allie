@@ -10,9 +10,9 @@
 <p align="left"> <a href="https://twitter.com/AllieGazi" target="blank"><img src="https://img.shields.io/twitter/follow/AllieGazi?logo=twitter&style=for-the-badge" alt="AllieGazi" /></a> </p>
 
 
-- 🌱 I’m currently learning *python, android*
+- 🌱 I’m currently learning *Full Stack Web Development*
 
-- 💬 Ask me about *web & app developer*
+- 💬 Ask me about *web development*
 
 - 📫 How to reach me *gaziallie114@gmail.com*
 
